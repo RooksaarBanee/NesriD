@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 0 5%;
+}
+
+.header-searchbar {
+    position: relative;
+}
+
+.header-searchbar input {
+    width: 40vw;
+    height: 45px;
+    padding: 0 5px 0 3.5vw;
+    border-radius: 10px;
+    background-color: #D2BCBD;
+    font: normal normal 600 18px/22px 'Dosis';
+}
+
+.header-searchbar i {
+    position: absolute;
+    left: 0;
+    top: 6px;
+    pointer-events: none;
+}
+
+.header i {
+    font-size: 32px;
+    margin: 0 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.header i:hover {
+    transform: scale(1.28);
+}
+
+.sub-header {
+    background-color: #e51b2248;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 10%;
+    border-radius: 10px
+}
+
+.sub-header p {
+    width: 11%;
+    margin: 0 1%;
+    cursor: pointer;
+    font: normal normal 600 18px/22px 'Dosis';
+}
+
+.sub-header span {
+    height: 75px;
+    width: 2px;
+    background-color: #BE2929;
+}

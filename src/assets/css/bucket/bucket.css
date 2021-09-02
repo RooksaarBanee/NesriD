@@ -1,0 +1,35 @@
+.bucket {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin: 5% 0 15%;
+}
+
+.bucket i {
+    font-size: 40px;
+    margin: 10px;
+}
+
+.bucket div {
+    display: flex;
+    align-items: center;
+}
+
+.bucket p {
+    font: normal normal bold 25px/28px 'Dosis';
+}
+
+.bucket button {
+    border: none;
+    background-color: #e51b2248;
+    padding: 10px 30px;
+    font: normal normal bold 25px/28px 'Dosis';
+    border-radius: 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.bucket button:hover {
+    transform: scale(1.03);
+}

@@ -1,0 +1,96 @@
+.profil {
+    padding-bottom: 50vh;
+    margin: 5% 10% 10% 10%;
+}
+
+.profil-bigtitle {
+    text-align: center;
+    font: normal normal bold 25px/30px 'Dosis';
+    margin-bottom: 45px;
+}
+
+.profil-all {
+    position: relative;
+}
+
+.profil-cat {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.profil-ab-1 {
+    left: 0;
+}
+
+.profil-ab-span {
+    position: absolute;
+    left: 50%;
+}
+
+.profil-ab-2 {
+    right: 0;
+}
+
+.profil-title {
+    font: normal normal bold 20px/30px 'Dosis' !important;
+    color: black !important;
+    margin: 0 !important;
+}
+
+.profil-cat input {
+    width: 400px;
+    padding: 5px;
+    border-radius: 10px;
+    height: 45px;
+    border: 2px solid rgb(190, 190, 190);
+    margin-top: 20px;
+    text-align: center;
+}
+
+.profil-cat p {
+    font: normal normal normal 17px/20px 'Dosis';
+    color: gray;
+    margin: 0 10%;
+    text-align: center;
+}
+
+.profil span {
+    width: 3px;
+    background-color: black;
+    height: 400px;
+}
+
+.profil-cat button {
+    border: none;
+    background-color: #e51b2248;
+    margin: 20px 0;
+    padding: 10px 30px;
+    font: normal normal bold 25px/28px 'Dosis';
+    border-radius: 10px;
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.profil-cat button:hover {
+    transform: scale(1.03);
+}
+
+.profil-checked {
+    display: flex;
+    align-items: center;
+    margin: 40px 0 10px 0;
+    text-align: left !important;
+    width: 100%;
+}
+
+.profil-checked input {
+    width: 30px !important;
+    margin: 0;
+}
+
+.profil-checked p {
+    color: black !important;
+    margin: 0 0 0 5px;
+}

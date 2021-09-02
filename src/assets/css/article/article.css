@@ -1,0 +1,23 @@
+.article p {
+    font: normal normal 700 30px/38px 'Dosis';
+    margin: 3% 0 3% 10%;
+}
+
+.article-all {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.article-solo {
+    width: 25%;
+    text-align: center;
+    background-color: rgb(231, 229, 229);
+    margin: 5px;
+    padding: 10px 0;
+}
+
+.article-solo p {
+    font: normal normal normal 22px/30px 'Dosis';
+    margin: 0;
+}

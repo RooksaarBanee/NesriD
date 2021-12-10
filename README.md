@@ -1,3 +1,83 @@
+
+# Nesri Discount
+
+![image](https://user-images.githubusercontent.com/70896732/145587028-b6be79d2-abde-4e28-802c-52a94b3c1ee4.png)
+
+During my 1st year of bachelor, I did a 2 months internship in web development at Nesri Discount, the company of Mr. Nesri.
+So I had to recreate : 
+- a logo
+- recreate the visual identity of the brand
+- recreate the front end of the website
+
+## Student developpers/ beginners
+
+As a 2nd year student developpers, i would like to help beginners or student in 1st year to prouve them that they are capable to do little project with basis.
+Front-End is very cool because you can see want you do unlike Back-End.
+## Color Reference
+
+I use different type of Color : 
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
+| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

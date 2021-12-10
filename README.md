@@ -13,9 +13,8 @@ So I had to recreate :
 
 As a 2nd year student developpers, i would like to help beginners or student in 1st year to prouve them that they are capable to do little project with basis.
 Front-End is very cool because you can see want you do unlike Back-End.
-## Color Reference
 
-I use different type of Color : 
+## Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |

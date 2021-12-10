@@ -19,10 +19,55 @@ I use different type of Color :
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Example Color | ![#e7e5e5](https://via.placeholder.com/10/e7e5e5?text=+) #E7E5E5 |
+| Example Color | ![#e51b2248](https://via.placeholder.com/10/e51b2248?text=+) #e51b2248 |
+| Example Color | ![#BE2929](https://via.placeholder.com/10/be2929?text=+) #BE2929 |
+| Example Color | ![#00000](https://via.placeholder.com/10/00000?text=+) #00000 |
+
+
+## Make a Logo on Adobe Illustrator
+
+![Logo](https://github.com/RooksaarBanee/NesriD/blob/main/src/assets/img/Logo.PNG?raw=true)
+
+
+## Programming language documentation
+
+ - [HTML5](https://developer.mozilla.org/fr/docs/Web/HTML)
+ - [CSS3](https://developer.mozilla.org/fr/docs/Web/CSS/Reference)
+ - [JavaScript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+
+
+## Packages
+
+To run this project you need to install Package
+
+#### Install NodeJS
+https://nodejs.org/en/download/
+
+and install on terminal :
+```bash
+  node -v
+```
+```bash
+  npm install -g npm
+``` 
+for Package.json 
+```bash
+  npm i
+``` 
+### Install React  
+```bash
+  npx create-react-app my-app
+``` 
+
+
+
+
+
+
+## Tech Stack
+
+**Client :** React
 
 
 

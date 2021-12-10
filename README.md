@@ -1,7 +1,7 @@
 
 # Nesri Discount
 
-
+https://user-images.githubusercontent.com/70896732/145610083-9ed3e15c-3931-4b1c-a774-59360fc65e31.mp4
 
 During my 1st year of bachelor, I did a 2 months internship in web development at Nesri Discount, the company of Mr. Nesri.
 So I had to recreate : 
